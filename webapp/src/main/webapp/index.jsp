@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>automate pipeline docker jennkins aws kibernates</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>create automaticcaly image and container</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
