@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>create artefact on ansible and ansible create image and push it on docker hub </h1>
-    <p>create automaticcaly image and container</p>
+    <p>CI /CD pipeline using ansible </p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
